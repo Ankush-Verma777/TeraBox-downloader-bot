@@ -1,0 +1,9 @@
+flask
+flask-ngrok
+telegram
+requests
+ logging
+ requests
+ tqdm
+ argparse
+ requests-toolbelt

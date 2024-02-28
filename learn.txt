@@ -1,0 +1,53 @@
+                      \\>>> INSTALLATION<<<///
+                
+
+>>>MUST INSTALL "need.txt"  file before below Steps<<<
+
+by command :--->
+
+1.)   pip install -r need.txt    
+
+2.)  pkg install telegram-bot-api
+
+__________________________________________________________
+
+
+            \\\>>>AUTOMATICALLY RUN COMMANDS<<<///
+
+
+
+1.)    python MAIN_HEAD.py
+___________________________________________________________
+
+
+
+
+
+
+
+
+
+___________________________________________________________
+
+                  >>>MANUALLY RUN COMMAND<<<<
+
+
+
+
+
+
+1.) telegram-bot-api --local --api-hash YourTelgramBotApiHash --api-id YourTelegramBotApiId
+
+2.) http://localhost:8081/bot{ ADD BOT TOKEN AND REMOVE "{ }" }/setWebhook?url=http://localhost:5000/api/telegram
+
+3.)paste on browser
+
+
+4.) run txbot.py
+
+
+
+
+
+
+

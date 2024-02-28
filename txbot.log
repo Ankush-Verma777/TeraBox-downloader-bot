@@ -1,0 +1,1192 @@
+2023-09-25 20:11:01,466 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8091
+2023-09-25 20:11:01,467 - INFO -[33mPress CTRL+C to quit[0m
+2023-09-25 20:11:01,475 - INFO - * Restarting with stat
+2023-09-25 20:11:03,112 - WARNING - * Debugger is active!
+2023-09-25 20:11:03,177 - INFO - * Debugger PIN: 470-042-459
+2023-09-25 20:12:48,928 - INFO - * Detected change in '/storage/emulated/0/Download/ATerabox Fucker/txbot.py', reloading
+2023-09-25 20:12:49,542 - INFO - * Restarting with stat
+2023-09-25 20:12:52,474 - WARNING - * Debugger is active!
+2023-09-25 20:12:52,549 - INFO - * Debugger PIN: 121-724-058
+2023-09-25 20:13:23,570 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+2023-09-25 20:13:23,570 - INFO -[33mPress CTRL+C to quit[0m
+2023-09-25 20:13:23,574 - INFO - * Restarting with stat
+2023-09-25 20:13:25,105 - WARNING - * Debugger is active!
+2023-09-25 20:13:25,166 - INFO - * Debugger PIN: 101-978-946
+2023-09-25 20:15:17,108 - INFO - * Detected change in '/storage/emulated/0/Download/ATerabox Fucker/custom_config.py', reloading
+2023-09-25 20:15:17,639 - INFO - * Restarting with stat
+2023-09-25 20:31:02,451 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+2023-09-25 20:31:02,453 - INFO -[33mPress CTRL+C to quit[0m
+2023-09-25 20:31:02,458 - INFO - * Restarting with stat
+2023-09-25 20:31:05,615 - WARNING - * Debugger is active!
+2023-09-25 20:31:05,675 - INFO - * Debugger PIN: 596-534-690
+2023-09-25 20:31:19,968 - INFO -127.0.0.1 - - [25/Sep/2023 20:31:19] "[33mGET / HTTP/1.1[0m" 404 -
+2023-09-25 20:31:20,132 - INFO -127.0.0.1 - - [25/Sep/2023 20:31:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-09-25 20:32:09,092 - INFO -127.0.0.1 - - [25/Sep/2023 20:32:09] "[33mGET / HTTP/1.1[0m" 404 -
+2023-09-25 20:32:09,234 - INFO -127.0.0.1 - - [25/Sep/2023 20:32:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-09-25 20:32:47,278 - INFO -127.0.0.1 - - [25/Sep/2023 20:32:47] "[33mGET / HTTP/1.1[0m" 404 -
+2023-09-25 21:07:14,741 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-25 21:07:14,743 - INFO -[33mPress CTRL+C to quit[0m
+2023-09-25 21:07:14,751 - INFO - * Restarting with stat
+2023-09-25 21:07:16,567 - WARNING - * Debugger is active!
+2023-09-25 21:07:16,660 - INFO - * Debugger PIN: 139-717-299
+2023-09-25 21:07:50,188 - INFO -127.0.0.1 - - [25/Sep/2023 21:07:50] "[33mGET / HTTP/1.1[0m" 404 -
+2023-09-25 21:07:50,415 - INFO -127.0.0.1 - - [25/Sep/2023 21:07:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-09-25 21:08:02,592 - INFO -127.0.0.1 - - [25/Sep/2023 21:08:02] "[33mGET / HTTP/1.1[0m" 404 -
+2023-09-25 21:08:02,809 - INFO -127.0.0.1 - - [25/Sep/2023 21:08:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-09-25 21:13:08,442 - INFO - * Detected change in '/storage/emulated/0/Download/ATerabox Fucker/txbot.py', reloading
+2023-09-25 21:13:09,168 - INFO - * Restarting with stat
+2023-09-25 21:13:11,466 - WARNING - * Debugger is active!
+2023-09-25 21:13:11,541 - INFO - * Debugger PIN: 626-164-538
+2023-09-25 21:18:12,892 - INFO - * Detected change in '/storage/emulated/0/Download/ATerabox Fucker/op.py', reloading
+2023-09-25 21:18:13,448 - INFO - * Restarting with stat
+2023-09-25 21:18:15,354 - WARNING - * Debugger is active!
+2023-09-25 21:18:15,422 - INFO - * Debugger PIN: 668-947-285
+2023-09-25 21:25:29,420 - INFO - * Detected change in '/storage/emulated/0/Download/ATerabox Fucker/txbot.py', reloading
+2023-09-25 21:25:30,006 - INFO - * Restarting with stat
+2023-09-25 21:26:11,872 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-25 21:26:11,873 - INFO -[33mPress CTRL+C to quit[0m
+2023-09-25 21:26:11,881 - INFO - * Restarting with stat
+2023-09-25 21:26:13,481 - WARNING - * Debugger is active!
+2023-09-25 21:26:13,526 - INFO - * Debugger PIN: 377-485-909
+2023-09-25 21:34:08,115 - INFO - * Detected change in '/storage/emulated/0/Download/ATerabox Fucker/txbot.py', reloading
+2023-09-25 21:34:08,526 - INFO - * Restarting with stat
+2023-09-25 21:34:11,075 - DEBUG -Starting new HTTPS connection (1): bin.equinox.io:443
+2023-09-25 21:34:12,430 - DEBUG -https://bin.equinox.io:443 "GET /c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip HTTP/1.1" 200 13921656
+2023-09-25 21:36:48,975 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-25 21:36:48,980 - INFO -[33mPress CTRL+C to quit[0m
+2023-09-25 21:36:49,983 - DEBUG -Starting new HTTPS connection (1): bin.equinox.io:443
+2023-09-25 21:36:57,600 - DEBUG -https://bin.equinox.io:443 "GET /c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip HTTP/1.1" 200 13921656
+2023-09-25 22:20:42,685 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+2023-09-25 22:20:42,688 - INFO -[33mPress CTRL+C to quit[0m
+2023-09-25 22:20:42,696 - INFO - * Restarting with stat
+2023-09-25 22:20:44,380 - WARNING - * Debugger is active!
+2023-09-25 22:20:44,428 - INFO - * Debugger PIN: 109-477-107
+2023-09-25 22:21:48,703 - INFO -127.0.0.1 - - [25/Sep/2023 22:21:48] "[33mGET / HTTP/1.1[0m" 404 -
+2023-09-25 22:21:48,883 - INFO -127.0.0.1 - - [25/Sep/2023 22:21:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-09-25 22:53:51,762 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+2023-09-25 22:53:51,764 - INFO -[33mPress CTRL+C to quit[0m
+2023-09-25 22:53:51,769 - INFO - * Restarting with stat
+2023-09-25 22:53:53,386 - WARNING - * Debugger is active!
+2023-09-25 22:53:53,430 - INFO - * Debugger PIN: 109-477-107
+2023-09-25 23:05:02,184 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+2023-09-25 23:05:02,185 - INFO -[33mPress CTRL+C to quit[0m
+2023-09-25 23:05:02,191 - INFO - * Restarting with stat
+2023-09-25 23:05:03,745 - WARNING - * Debugger is active!
+2023-09-25 23:05:03,790 - INFO - * Debugger PIN: 109-477-107
+2023-09-25 23:14:23,426 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-25 23:14:23,427 - INFO -[33mPress CTRL+C to quit[0m
+2023-09-25 23:14:23,434 - INFO - * Restarting with stat
+2023-09-25 23:14:25,518 - WARNING - * Debugger is active!
+2023-09-25 23:14:25,580 - INFO - * Debugger PIN: 676-475-714
+2023-09-25 23:15:11,681 - INFO -127.0.0.1 - - [25/Sep/2023 23:15:11] "[33mGET / HTTP/1.1[0m" 404 -
+2023-09-25 23:15:12,305 - INFO -127.0.0.1 - - [25/Sep/2023 23:15:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-09-25 23:19:48,155 - INFO -127.0.0.1 - - [25/Sep/2023 23:19:48] "[33mGET / HTTP/1.1[0m" 404 -
+2023-09-25 23:21:09,989 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-25 23:21:11,076 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/sendMessage HTTP/1.1" 200 550
+2023-09-25 23:21:11,154 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-25 23:21:12,287 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/editMessageText HTTP/1.1" 200 274
+2023-09-25 23:21:12,317 - INFO -127.0.0.1 - - [25/Sep/2023 23:21:12] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-25 23:21:17,478 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-25 23:21:18,418 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/sendMessage HTTP/1.1" 200 386
+2023-09-25 23:21:18,435 - INFO -127.0.0.1 - - [25/Sep/2023 23:21:18] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-25 23:21:53,934 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-25 23:21:54,929 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/sendMessage HTTP/1.1" 200 667
+2023-09-25 23:21:54,979 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-25 23:21:56,703 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/editMessageText HTTP/1.1" 200 313
+2023-09-25 23:21:56,725 - INFO -127.0.0.1 - - [25/Sep/2023 23:21:56] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-25 23:27:52,406 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-25 23:27:53,635 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/sendMessage HTTP/1.1" 200 550
+2023-09-25 23:27:53,804 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-25 23:27:54,802 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/editMessageText HTTP/1.1" 200 274
+2023-09-25 23:27:54,845 - INFO -127.0.0.1 - - [25/Sep/2023 23:27:54] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-25 23:31:33,770 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-25 23:31:33,772 - INFO -[33mPress CTRL+C to quit[0m
+2023-09-25 23:31:33,775 - INFO - * Restarting with stat
+2023-09-25 23:31:34,271 - WARNING - * Debugger is active!
+2023-09-25 23:31:34,293 - INFO - * Debugger PIN: 676-475-714
+2023-09-25 23:33:23,692 - INFO -127.0.0.1 - - [25/Sep/2023 23:33:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-09-25 23:54:34,030 - INFO -127.0.0.1 - - [25/Sep/2023 23:54:34] "[33mPOST / HTTP/1.1[0m" 404 -
+2023-09-25 23:54:40,385 - INFO -127.0.0.1 - - [25/Sep/2023 23:54:40] "[33mPOST / HTTP/1.1[0m" 404 -
+2023-09-25 23:54:47,427 - INFO -127.0.0.1 - - [25/Sep/2023 23:54:47] "[33mPOST / HTTP/1.1[0m" 404 -
+2023-09-25 23:55:02,770 - INFO -127.0.0.1 - - [25/Sep/2023 23:55:02] "[33mPOST / HTTP/1.1[0m" 404 -
+2023-09-25 23:55:05,629 - INFO -127.0.0.1 - - [25/Sep/2023 23:55:05] "[33mPOST / HTTP/1.1[0m" 404 -
+2023-09-25 23:55:12,688 - INFO -127.0.0.1 - - [25/Sep/2023 23:55:12] "[33mPOST / HTTP/1.1[0m" 404 -
+2023-09-25 23:55:18,789 - INFO -127.0.0.1 - - [25/Sep/2023 23:55:18] "[33mPOST / HTTP/1.1[0m" 404 -
+2023-09-25 23:55:39,252 - INFO -127.0.0.1 - - [25/Sep/2023 23:55:39] "[33mPOST / HTTP/1.1[0m" 404 -
+2023-09-25 23:57:28,188 - INFO -127.0.0.1 - - [25/Sep/2023 23:57:28] "[33mPOST / HTTP/1.1[0m" 404 -
+2023-09-25 23:57:48,215 - INFO -127.0.0.1 - - [25/Sep/2023 23:57:48] "[33mPOST / HTTP/1.1[0m" 404 -
+2023-09-25 23:59:53,978 - INFO -127.0.0.1 - - [25/Sep/2023 23:59:53] "[33mPOST / HTTP/1.1[0m" 404 -
+2023-09-25 23:59:57,899 - INFO -127.0.0.1 - - [25/Sep/2023 23:59:57] "[33mPOST / HTTP/1.1[0m" 404 -
+2023-09-26 00:00:04,841 - INFO -127.0.0.1 - - [26/Sep/2023 00:00:04] "[33mPOST / HTTP/1.1[0m" 404 -
+2023-09-26 00:00:31,422 - INFO -127.0.0.1 - - [26/Sep/2023 00:00:31] "[33mPOST / HTTP/1.1[0m" 404 -
+2023-09-26 00:02:37,177 - INFO -127.0.0.1 - - [26/Sep/2023 00:02:37] "[33mPOST / HTTP/1.1[0m" 404 -
+2023-09-26 00:04:18,962 - INFO -127.0.0.1 - - [26/Sep/2023 00:04:18] "[33mGET / HTTP/1.1[0m" 404 -
+2023-09-26 00:04:19,260 - INFO -127.0.0.1 - - [26/Sep/2023 00:04:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-09-26 00:04:35,505 - INFO -127.0.0.1 - - [26/Sep/2023 00:04:35] "[33mGET / HTTP/1.1[0m" 404 -
+2023-09-26 00:05:39,157 - INFO -127.0.0.1 - - [26/Sep/2023 00:05:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-09-26 00:05:42,929 - INFO -127.0.0.1 - - [26/Sep/2023 00:05:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-09-26 00:05:43,498 - INFO -127.0.0.1 - - [26/Sep/2023 00:05:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-09-26 00:07:57,176 - INFO -127.0.0.1 - - [26/Sep/2023 00:07:57] "[33mPOST / HTTP/1.1[0m" 404 -
+2023-09-26 00:08:18,082 - INFO -127.0.0.1 - - [26/Sep/2023 00:08:18] "[33mPOST / HTTP/1.1[0m" 404 -
+2023-09-26 08:17:19,940 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-26 08:17:19,941 - INFO -[33mPress CTRL+C to quit[0m
+2023-09-26 08:17:19,945 - INFO - * Restarting with stat
+2023-09-26 08:17:20,470 - WARNING - * Debugger is active!
+2023-09-26 08:17:20,501 - INFO - * Debugger PIN: 676-475-714
+2023-09-26 08:28:39,838 - INFO -127.0.0.1 - - [26/Sep/2023 08:28:39] "[33mGET / HTTP/1.1[0m" 404 -
+2023-09-26 08:28:40,091 - INFO -127.0.0.1 - - [26/Sep/2023 08:28:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-09-26 08:29:08,226 - INFO -127.0.0.1 - - [26/Sep/2023 08:29:08] "[33mGET / HTTP/1.1[0m" 404 -
+2023-09-26 09:10:32,700 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 09:10:34,051 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/sendMessage HTTP/1.1" 200 386
+2023-09-26 09:10:34,082 - INFO -127.0.0.1 - - [26/Sep/2023 09:10:34] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-26 09:10:34,456 - ERROR -Error executing query: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 514946383104 and this is thread id 514924199168.
+2023-09-26 09:10:34,456 - ERROR -Error occured at check upates - SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 514946383104 and this is thread id 514924199168.
+2023-09-26 09:10:34,462 - ERROR -Error executing query: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 514946383104 and this is thread id 514924199168.
+2023-09-26 09:10:34,462 - ERROR -Error Occured in Save Updates - SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 514946383104 and this is thread id 514924199168.
+2023-09-26 09:10:34,463 - INFO -127.0.0.1 - - [26/Sep/2023 09:10:34] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-26 09:10:34,525 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 09:10:34,872 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 09:10:35,409 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/sendMessage HTTP/1.1" 200 386
+2023-09-26 09:10:35,413 - INFO -127.0.0.1 - - [26/Sep/2023 09:10:35] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-26 09:10:36,171 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/sendMessage HTTP/1.1" 200 550
+2023-09-26 09:10:36,311 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 09:10:37,222 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/editMessageText HTTP/1.1" 200 274
+2023-09-26 09:10:37,244 - INFO -127.0.0.1 - - [26/Sep/2023 09:10:37] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-26 09:10:37,701 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 09:10:39,048 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/sendMessage HTTP/1.1" 200 550
+2023-09-26 09:10:39,120 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 09:10:40,064 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/editMessageText HTTP/1.1" 200 274
+2023-09-26 09:10:40,073 - INFO -127.0.0.1 - - [26/Sep/2023 09:10:40] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-26 09:10:40,484 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 09:10:41,926 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/sendMessage HTTP/1.1" 200 550
+2023-09-26 09:10:41,973 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 09:10:42,870 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/editMessageText HTTP/1.1" 200 274
+2023-09-26 09:10:42,876 - INFO -127.0.0.1 - - [26/Sep/2023 09:10:42] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-26 09:15:44,621 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 09:15:45,636 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/sendMessage HTTP/1.1" 200 347
+2023-09-26 09:15:45,651 - INFO -127.0.0.1 - - [26/Sep/2023 09:15:45] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-26 09:15:49,217 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 09:15:50,257 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/sendMessage HTTP/1.1" 200 550
+2023-09-26 09:15:50,350 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 09:15:51,443 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/editMessageText HTTP/1.1" 200 274
+2023-09-26 09:15:51,469 - INFO -127.0.0.1 - - [26/Sep/2023 09:15:51] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-26 09:24:29,171 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 09:24:30,406 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/sendMessage HTTP/1.1" 200 386
+2023-09-26 09:24:30,417 - INFO -127.0.0.1 - - [26/Sep/2023 09:24:30] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-26 09:24:32,647 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 09:24:33,520 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/sendMessage HTTP/1.1" 200 386
+2023-09-26 09:24:33,530 - INFO -127.0.0.1 - - [26/Sep/2023 09:24:33] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-26 09:25:05,298 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 09:25:06,313 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/sendMessage HTTP/1.1" 200 667
+2023-09-26 09:25:06,363 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 09:25:07,192 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/editMessageText HTTP/1.1" 200 313
+2023-09-26 09:25:07,208 - INFO -127.0.0.1 - - [26/Sep/2023 09:25:07] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-26 09:26:42,067 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 09:26:43,059 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/sendMessage HTTP/1.1" 200 550
+2023-09-26 09:26:43,211 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 09:26:44,088 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/editMessageText HTTP/1.1" 200 274
+2023-09-26 09:26:44,110 - INFO -127.0.0.1 - - [26/Sep/2023 09:26:44] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-26 09:46:17,012 - INFO - * Detected change in '/storage/emulated/0/Download/ATerabox Fucker/custom_config.py', reloading
+2023-09-26 09:46:17,319 - INFO - * Restarting with stat
+2023-09-26 09:46:18,810 - WARNING - * Debugger is active!
+2023-09-26 09:46:18,837 - INFO - * Debugger PIN: 676-475-714
+2023-09-26 09:46:36,690 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 09:46:37,871 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/sendMessage HTTP/1.1" 200 550
+2023-09-26 09:46:37,955 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 09:46:39,143 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/editMessageText HTTP/1.1" 200 274
+2023-09-26 09:46:39,156 - INFO -127.0.0.1 - - [26/Sep/2023 09:46:39] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-26 09:48:20,877 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 09:48:21,791 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/sendMessage HTTP/1.1" 200 550
+2023-09-26 09:48:21,884 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 09:48:23,141 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/editMessageText HTTP/1.1" 200 274
+2023-09-26 09:48:23,161 - INFO -127.0.0.1 - - [26/Sep/2023 09:48:23] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-26 09:54:53,829 - INFO - * Detected change in '/storage/emulated/0/Download/ATerabox Fucker/custom_config.py', reloading
+2023-09-26 09:54:54,091 - INFO - * Restarting with stat
+2023-09-26 10:01:50,129 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-26 10:01:50,130 - INFO -[33mPress CTRL+C to quit[0m
+2023-09-26 10:01:50,134 - INFO - * Restarting with stat
+2023-09-26 10:01:50,638 - WARNING - * Debugger is active!
+2023-09-26 10:01:50,666 - INFO - * Debugger PIN: 676-475-714
+2023-09-26 10:02:51,561 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 10:02:52,780 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/sendMessage HTTP/1.1" 200 550
+2023-09-26 10:02:52,854 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 10:02:53,811 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/editMessageText HTTP/1.1" 200 274
+2023-09-26 10:02:53,832 - INFO -127.0.0.1 - - [26/Sep/2023 10:02:53] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-26 10:02:54,258 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 10:02:55,179 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/sendMessage HTTP/1.1" 200 550
+2023-09-26 10:02:55,275 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 10:02:56,177 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/editMessageText HTTP/1.1" 200 274
+2023-09-26 10:02:56,191 - INFO -127.0.0.1 - - [26/Sep/2023 10:02:56] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-26 10:02:56,652 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 10:02:59,958 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/sendMessage HTTP/1.1" 200 550
+2023-09-26 10:03:00,007 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 10:03:00,905 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/editMessageText HTTP/1.1" 200 274
+2023-09-26 10:03:00,918 - INFO -127.0.0.1 - - [26/Sep/2023 10:03:00] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-26 10:05:20,188 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 10:05:21,115 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/sendMessage HTTP/1.1" 200 347
+2023-09-26 10:05:21,124 - INFO -127.0.0.1 - - [26/Sep/2023 10:05:21] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-26 10:05:23,715 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 10:05:24,895 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/sendMessage HTTP/1.1" 200 550
+2023-09-26 10:05:24,988 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 10:05:25,956 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/editMessageText HTTP/1.1" 200 274
+2023-09-26 10:05:25,990 - INFO -127.0.0.1 - - [26/Sep/2023 10:05:25] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-26 10:21:12,993 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 10:21:14,159 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/sendMessage HTTP/1.1" 200 550
+2023-09-26 10:21:14,237 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 10:21:15,038 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/editMessageText HTTP/1.1" 200 274
+2023-09-26 10:21:15,070 - INFO -127.0.0.1 - - [26/Sep/2023 10:21:15] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-26 10:23:45,594 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-26 10:23:45,595 - INFO -[33mPress CTRL+C to quit[0m
+2023-09-26 10:23:45,597 - INFO - * Restarting with stat
+2023-09-26 10:23:46,082 - WARNING - * Debugger is active!
+2023-09-26 10:23:46,105 - INFO - * Debugger PIN: 676-475-714
+2023-09-26 10:25:01,731 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 10:25:03,139 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/sendMessage HTTP/1.1" 200 550
+2023-09-26 10:25:03,192 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 10:25:04,372 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/editMessageText HTTP/1.1" 200 274
+2023-09-26 10:25:04,388 - INFO -127.0.0.1 - - [26/Sep/2023 10:25:04] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-26 10:28:47,559 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 10:28:48,633 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/sendMessage HTTP/1.1" 200 797
+2023-09-26 10:28:48,653 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 10:28:49,596 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/editMessageText HTTP/1.1" 200 266
+2023-09-26 10:28:49,608 - INFO -127.0.0.1 - - [26/Sep/2023 10:28:49] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-26 11:06:55,228 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 11:06:56,197 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/sendMessage HTTP/1.1" 200 550
+2023-09-26 11:06:56,249 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 11:06:57,382 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/editMessageText HTTP/1.1" 200 274
+2023-09-26 11:06:57,410 - INFO -127.0.0.1 - - [26/Sep/2023 11:06:57] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-26 11:29:09,970 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-26 11:29:09,971 - INFO -[33mPress CTRL+C to quit[0m
+2023-09-26 11:29:09,975 - INFO - * Restarting with stat
+2023-09-26 11:29:10,459 - WARNING - * Debugger is active!
+2023-09-26 11:29:10,485 - INFO - * Debugger PIN: 676-475-714
+2023-09-26 11:31:05,005 - INFO -127.0.0.1 - - [26/Sep/2023 11:31:05] "[33mPOST / HTTP/1.1[0m" 404 -
+2023-09-26 11:31:05,533 - INFO -127.0.0.1 - - [26/Sep/2023 11:31:05] "[33mPOST / HTTP/1.1[0m" 404 -
+2023-09-26 11:31:07,881 - INFO -127.0.0.1 - - [26/Sep/2023 11:31:07] "[33mPOST / HTTP/1.1[0m" 404 -
+2023-09-26 11:31:12,255 - INFO -127.0.0.1 - - [26/Sep/2023 11:31:12] "[33mPOST / HTTP/1.1[0m" 404 -
+2023-09-26 11:31:20,850 - INFO -127.0.0.1 - - [26/Sep/2023 11:31:20] "[33mPOST / HTTP/1.1[0m" 404 -
+2023-09-26 11:31:23,769 - INFO -127.0.0.1 - - [26/Sep/2023 11:31:23] "[33mPOST / HTTP/1.1[0m" 404 -
+2023-09-26 11:31:24,142 - INFO -127.0.0.1 - - [26/Sep/2023 11:31:24] "[33mPOST / HTTP/1.1[0m" 404 -
+2023-09-26 11:31:26,598 - INFO -127.0.0.1 - - [26/Sep/2023 11:31:26] "[33mPOST / HTTP/1.1[0m" 404 -
+2023-09-26 11:31:31,076 - INFO -127.0.0.1 - - [26/Sep/2023 11:31:31] "[33mPOST / HTTP/1.1[0m" 404 -
+2023-09-26 11:31:37,231 - INFO -127.0.0.1 - - [26/Sep/2023 11:31:37] "[33mPOST / HTTP/1.1[0m" 404 -
+2023-09-26 11:31:39,452 - INFO -127.0.0.1 - - [26/Sep/2023 11:31:39] "[33mPOST / HTTP/1.1[0m" 404 -
+2023-09-26 11:31:55,904 - INFO -127.0.0.1 - - [26/Sep/2023 11:31:55] "[33mPOST / HTTP/1.1[0m" 404 -
+2023-09-26 11:32:09,587 - INFO -127.0.0.1 - - [26/Sep/2023 11:32:09] "[33mPOST / HTTP/1.1[0m" 404 -
+2023-09-26 11:32:28,506 - INFO -127.0.0.1 - - [26/Sep/2023 11:32:28] "[33mPOST / HTTP/1.1[0m" 404 -
+2023-09-26 11:33:13,965 - INFO -127.0.0.1 - - [26/Sep/2023 11:33:13] "[33mPOST / HTTP/1.1[0m" 404 -
+2023-09-26 11:33:31,598 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-26 11:33:31,599 - INFO -[33mPress CTRL+C to quit[0m
+2023-09-26 11:33:31,605 - INFO - * Restarting with stat
+2023-09-26 11:33:32,120 - WARNING - * Debugger is active!
+2023-09-26 11:33:32,145 - INFO - * Debugger PIN: 676-475-714
+2023-09-26 11:33:32,893 - INFO -127.0.0.1 - - [26/Sep/2023 11:33:32] "[33mPOST / HTTP/1.1[0m" 404 -
+2023-09-26 11:34:45,567 - INFO -127.0.0.1 - - [26/Sep/2023 11:34:45] "[33mPOST / HTTP/1.1[0m" 404 -
+2023-09-26 11:34:59,537 - INFO -127.0.0.1 - - [26/Sep/2023 11:34:59] "[33mPOST / HTTP/1.1[0m" 404 -
+2023-09-26 11:36:13,952 - INFO -127.0.0.1 - - [26/Sep/2023 11:36:13] "[33mPOST / HTTP/1.1[0m" 404 -
+2023-09-26 11:36:29,111 - INFO -127.0.0.1 - - [26/Sep/2023 11:36:29] "[33mPOST / HTTP/1.1[0m" 404 -
+2023-09-26 11:36:51,639 - INFO -127.0.0.1 - - [26/Sep/2023 11:36:51] "[33mGET / HTTP/1.1[0m" 404 -
+2023-09-26 11:36:51,915 - INFO -127.0.0.1 - - [26/Sep/2023 11:36:51] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-09-26 11:37:47,505 - INFO -127.0.0.1 - - [26/Sep/2023 11:37:47] "[33mPOST / HTTP/1.1[0m" 404 -
+2023-09-26 11:38:03,503 - INFO -127.0.0.1 - - [26/Sep/2023 11:38:03] "[33mPOST / HTTP/1.1[0m" 404 -
+2023-09-26 11:38:24,613 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 11:38:25,447 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/sendMessage HTTP/1.1" 400 84
+2023-09-26 11:38:25,456 - ERROR -Error Occured in telegram_webhook - 'result'
+2023-09-26 11:38:25,457 - INFO -127.0.0.1 - - [26/Sep/2023 11:38:25] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-26 11:38:25,858 - ERROR -Error executing query: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 484300823808 and this is thread id 484278516992.
+2023-09-26 11:38:25,858 - ERROR -Error occured at check upates - SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 484300823808 and this is thread id 484278516992.
+2023-09-26 11:38:25,858 - ERROR -Error executing query: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 484300823808 and this is thread id 484278516992.
+2023-09-26 11:38:25,858 - ERROR -Error Occured in Save Updates - SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 484300823808 and this is thread id 484278516992.
+2023-09-26 11:38:25,859 - INFO -127.0.0.1 - - [26/Sep/2023 11:38:25] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-26 11:38:25,875 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 11:38:26,272 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 11:38:26,814 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/sendMessage HTTP/1.1" 200 386
+2023-09-26 11:38:26,823 - INFO -127.0.0.1 - - [26/Sep/2023 11:38:26] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-26 11:38:27,064 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/sendMessage HTTP/1.1" 200 550
+2023-09-26 11:38:27,116 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 11:38:28,011 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/editMessageText HTTP/1.1" 200 274
+2023-09-26 11:38:28,041 - INFO -127.0.0.1 - - [26/Sep/2023 11:38:28] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-26 11:38:28,452 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 11:38:29,564 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/sendMessage HTTP/1.1" 200 550
+2023-09-26 11:38:29,653 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 11:38:30,682 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/editMessageText HTTP/1.1" 200 274
+2023-09-26 11:38:30,688 - INFO -127.0.0.1 - - [26/Sep/2023 11:38:30] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-26 11:38:31,112 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 11:38:32,283 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/sendMessage HTTP/1.1" 200 550
+2023-09-26 11:38:32,329 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 11:38:33,562 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/editMessageText HTTP/1.1" 200 274
+2023-09-26 11:38:33,569 - INFO -127.0.0.1 - - [26/Sep/2023 11:38:33] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-26 11:38:33,993 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 11:38:34,968 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/sendMessage HTTP/1.1" 200 550
+2023-09-26 11:38:35,013 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 11:38:35,871 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/editMessageText HTTP/1.1" 200 274
+2023-09-26 11:38:35,901 - INFO -127.0.0.1 - - [26/Sep/2023 11:38:35] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-26 11:38:37,446 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 11:38:38,377 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/sendMessage HTTP/1.1" 200 386
+2023-09-26 11:38:38,400 - INFO -127.0.0.1 - - [26/Sep/2023 11:38:38] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-26 11:38:52,298 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 11:38:53,503 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/sendMessage HTTP/1.1" 200 667
+2023-09-26 11:38:53,544 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 11:38:54,686 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/editMessageText HTTP/1.1" 200 313
+2023-09-26 11:38:54,718 - INFO -127.0.0.1 - - [26/Sep/2023 11:38:54] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-26 11:43:47,647 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-26 11:43:47,648 - INFO -[33mPress CTRL+C to quit[0m
+2023-09-26 11:43:47,651 - INFO - * Restarting with stat
+2023-09-26 11:43:48,161 - WARNING - * Debugger is active!
+2023-09-26 11:43:48,221 - INFO - * Debugger PIN: 676-475-714
+2023-09-26 11:44:13,279 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 11:44:14,473 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/sendMessage HTTP/1.1" 200 550
+2023-09-26 11:44:14,567 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 11:44:15,542 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/editMessageText HTTP/1.1" 200 274
+2023-09-26 11:44:15,553 - INFO -127.0.0.1 - - [26/Sep/2023 11:44:15] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-26 11:45:13,592 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 11:45:16,198 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/sendMessage HTTP/1.1" 200 386
+2023-09-26 11:45:16,222 - INFO -127.0.0.1 - - [26/Sep/2023 11:45:16] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-26 11:45:22,021 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 11:45:23,230 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/sendMessage HTTP/1.1" 200 613
+2023-09-26 11:45:23,243 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 11:45:25,545 - DEBUG -https://api.telegram.org:443 "POST /bot6565052789:AAFIZldQkIfGHXdDghgTvutJALnIyGZ45gE/editMessageText HTTP/1.1" 200 305
+2023-09-26 11:45:25,575 - INFO -127.0.0.1 - - [26/Sep/2023 11:45:25] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-26 11:51:54,466 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-26 11:51:54,466 - INFO -[33mPress CTRL+C to quit[0m
+2023-09-26 11:51:54,470 - INFO - * Restarting with stat
+2023-09-26 11:51:55,010 - WARNING - * Debugger is active!
+2023-09-26 11:51:55,037 - INFO - * Debugger PIN: 676-475-714
+2023-09-26 12:00:05,389 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-26 12:00:05,391 - INFO -[33mPress CTRL+C to quit[0m
+2023-09-26 12:00:05,394 - INFO - * Restarting with stat
+2023-09-26 12:00:05,894 - WARNING - * Debugger is active!
+2023-09-26 12:00:05,926 - INFO - * Debugger PIN: 676-475-714
+2023-09-26 12:03:33,038 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 12:03:34,175 - DEBUG -https://api.telegram.org:443 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 359
+2023-09-26 12:03:34,185 - INFO -127.0.0.1 - - [26/Sep/2023 12:03:34] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-26 12:03:34,615 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 12:03:35,638 - DEBUG -https://api.telegram.org:443 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 560
+2023-09-26 12:03:35,715 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 12:03:36,623 - DEBUG -https://api.telegram.org:443 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 286
+2023-09-26 12:03:36,649 - INFO -127.0.0.1 - - [26/Sep/2023 12:03:36] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-26 12:17:25,980 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 12:17:27,154 - DEBUG -https://api.telegram.org:443 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 399
+2023-09-26 12:17:27,186 - INFO -127.0.0.1 - - [26/Sep/2023 12:17:27] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-26 12:17:30,106 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 12:17:31,238 - DEBUG -https://api.telegram.org:443 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 679
+2023-09-26 12:17:31,313 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 12:17:32,434 - DEBUG -https://api.telegram.org:443 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 326
+2023-09-26 12:17:32,491 - INFO -127.0.0.1 - - [26/Sep/2023 12:17:32] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-26 12:25:20,383 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 12:25:21,466 - DEBUG -https://api.telegram.org:443 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 679
+2023-09-26 12:25:21,572 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 12:25:22,502 - DEBUG -https://api.telegram.org:443 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 326
+2023-09-26 12:25:22,537 - INFO -127.0.0.1 - - [26/Sep/2023 12:25:22] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-26 13:30:15,618 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 13:30:16,957 - DEBUG -https://api.telegram.org:443 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 562
+2023-09-26 13:30:17,072 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 13:30:18,095 - DEBUG -https://api.telegram.org:443 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 287
+2023-09-26 13:30:18,141 - INFO -127.0.0.1 - - [26/Sep/2023 13:30:18] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-26 13:45:18,906 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 13:45:19,995 - DEBUG -https://api.telegram.org:443 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 562
+2023-09-26 13:45:20,095 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 13:45:21,016 - DEBUG -https://api.telegram.org:443 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 287
+2023-09-26 13:45:21,045 - INFO -127.0.0.1 - - [26/Sep/2023 13:45:21] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-26 15:01:48,081 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 15:01:49,313 - DEBUG -https://api.telegram.org:443 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 399
+2023-09-26 15:01:49,347 - INFO -127.0.0.1 - - [26/Sep/2023 15:01:49] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-26 15:02:33,280 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 15:02:34,199 - DEBUG -https://api.telegram.org:443 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 399
+2023-09-26 15:02:34,224 - INFO -127.0.0.1 - - [26/Sep/2023 15:02:34] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-26 18:02:49,004 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 18:02:50,568 - DEBUG -https://api.telegram.org:443 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 562
+2023-09-26 18:02:50,654 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-26 18:02:51,796 - DEBUG -https://api.telegram.org:443 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 287
+2023-09-26 18:02:51,828 - INFO -127.0.0.1 - - [26/Sep/2023 18:02:51] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-27 12:14:01,735 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-27 12:14:01,735 - INFO -[33mPress CTRL+C to quit[0m
+2023-09-27 12:14:01,738 - INFO - * Restarting with stat
+2023-09-27 12:14:02,179 - WARNING - * Debugger is active!
+2023-09-27 12:14:02,200 - INFO - * Debugger PIN: 128-641-861
+2023-09-27 12:30:09,095 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-27 12:30:09,096 - INFO -[33mPress CTRL+C to quit[0m
+2023-09-27 12:30:09,100 - INFO - * Restarting with stat
+2023-09-27 12:30:09,533 - WARNING - * Debugger is active!
+2023-09-27 12:30:09,558 - INFO - * Debugger PIN: 128-641-861
+2023-09-27 12:35:51,782 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-27 12:35:51,783 - INFO -[33mPress CTRL+C to quit[0m
+2023-09-27 12:35:51,785 - INFO - * Restarting with stat
+2023-09-27 12:35:52,209 - WARNING - * Debugger is active!
+2023-09-27 12:35:52,230 - INFO - * Debugger PIN: 128-641-861
+2023-09-27 12:37:19,314 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-27 12:37:20,346 - DEBUG -https://api.telegram.org:443 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 399
+2023-09-27 12:37:20,355 - INFO -127.0.0.1 - - [27/Sep/2023 12:37:20] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-27 12:37:20,738 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-27 12:37:20,739 - ERROR -Error executing query: 'NoneType' object has no attribute 'cursor'
+2023-09-27 12:37:20,752 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-27 12:37:21,675 - DEBUG -https://api.telegram.org:443 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 562
+2023-09-27 12:37:21,706 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-27 12:37:21,717 - DEBUG -https://api.telegram.org:443 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 399
+2023-09-27 12:37:21,720 - INFO -127.0.0.1 - - [27/Sep/2023 12:37:21] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-27 12:37:22,531 - DEBUG -https://api.telegram.org:443 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 287
+2023-09-27 12:37:22,546 - INFO -127.0.0.1 - - [27/Sep/2023 12:37:22] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-27 12:37:22,943 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-27 12:37:23,821 - DEBUG -https://api.telegram.org:443 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 562
+2023-09-27 12:37:23,832 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-27 12:37:24,745 - DEBUG -https://api.telegram.org:443 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 287
+2023-09-27 12:37:24,756 - INFO -127.0.0.1 - - [27/Sep/2023 12:37:24] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-27 12:41:22,629 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-27 12:41:22,630 - INFO -[33mPress CTRL+C to quit[0m
+2023-09-27 12:41:22,632 - INFO - * Restarting with stat
+2023-09-27 12:41:23,074 - WARNING - * Debugger is active!
+2023-09-27 12:41:23,094 - INFO - * Debugger PIN: 128-641-861
+2023-09-27 12:53:33,427 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-27 12:53:33,428 - INFO -[33mPress CTRL+C to quit[0m
+2023-09-27 12:53:33,430 - INFO - * Restarting with stat
+2023-09-27 12:53:33,856 - WARNING - * Debugger is active!
+2023-09-27 12:53:33,878 - INFO - * Debugger PIN: 128-641-861
+2023-09-27 12:55:11,304 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-27 12:55:12,381 - DEBUG -https://api.telegram.org:443 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 399
+2023-09-27 12:55:12,385 - INFO -127.0.0.1 - - [27/Sep/2023 12:55:12] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-27 12:55:12,751 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-27 12:55:13,703 - DEBUG -https://api.telegram.org:443 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 488
+2023-09-27 12:55:13,709 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-27 12:55:15,649 - DEBUG -https://api.telegram.org:443 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 279
+2023-09-27 12:55:15,659 - INFO -127.0.0.1 - - [27/Sep/2023 12:55:15] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-27 12:55:16,040 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-27 12:55:16,938 - DEBUG -https://api.telegram.org:443 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 562
+2023-09-27 12:55:16,960 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-27 12:55:18,004 - DEBUG -https://api.telegram.org:443 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 287
+2023-09-27 12:55:18,012 - INFO -127.0.0.1 - - [27/Sep/2023 12:55:18] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-27 13:41:42,271 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-27 13:41:42,272 - INFO -[33mPress CTRL+C to quit[0m
+2023-09-27 13:41:42,274 - INFO - * Restarting with stat
+2023-09-27 13:41:42,717 - WARNING - * Debugger is active!
+2023-09-27 13:41:42,740 - INFO - * Debugger PIN: 128-641-861
+2023-09-27 13:43:36,803 - INFO - * Detected change in '/data/data/com.termux/files/home/TeraHunter/main.py', reloading
+2023-09-27 13:43:36,973 - INFO - * Restarting with stat
+2023-09-27 13:43:37,619 - WARNING - * Debugger is active!
+2023-09-27 13:43:37,633 - INFO - * Debugger PIN: 128-641-861
+2023-09-27 13:44:51,579 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-27 13:44:51,581 - INFO -[33mPress CTRL+C to quit[0m
+2023-09-27 13:44:51,584 - INFO - * Restarting with stat
+2023-09-27 13:44:52,099 - WARNING - * Debugger is active!
+2023-09-27 13:44:52,108 - INFO - * Debugger PIN: 128-641-861
+2023-09-27 13:46:17,601 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-27 13:46:17,602 - INFO -[33mPress CTRL+C to quit[0m
+2023-09-27 13:46:17,604 - INFO - * Restarting with stat
+2023-09-27 13:46:18,042 - WARNING - * Debugger is active!
+2023-09-27 13:46:18,061 - INFO - * Debugger PIN: 128-641-861
+2023-09-27 13:47:53,099 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-27 13:47:53,100 - INFO -[33mPress CTRL+C to quit[0m
+2023-09-27 13:47:53,102 - INFO - * Restarting with stat
+2023-09-27 13:47:53,543 - WARNING - * Debugger is active!
+2023-09-27 13:47:53,556 - INFO - * Debugger PIN: 128-641-861
+2023-09-27 13:48:01,552 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-27 13:48:02,730 - DEBUG -https://api.telegram.org:443 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 360
+2023-09-27 13:48:02,733 - INFO -127.0.0.1 - - [27/Sep/2023 13:48:02] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-27 13:50:07,946 - INFO - * Detected change in '/data/data/com.termux/files/home/TeraHunter/main.py', reloading
+2023-09-27 13:50:08,194 - INFO - * Restarting with stat
+2023-09-27 13:50:09,392 - WARNING - * Debugger is active!
+2023-09-27 13:50:09,413 - INFO - * Debugger PIN: 128-641-861
+2023-09-27 13:52:43,115 - INFO - * Detected change in '/data/data/com.termux/files/home/TeraHunter/RUN_WEBHOOK.py', reloading
+2023-09-27 13:52:43,293 - INFO - * Restarting with stat
+2023-09-27 13:52:43,724 - WARNING - * Debugger is active!
+2023-09-27 13:52:43,731 - INFO - * Debugger PIN: 128-641-861
+2023-09-27 13:53:06,976 - INFO - * Detected change in '/data/data/com.termux/files/home/TeraHunter/RUN_WEBHOOK.py', reloading
+2023-09-27 13:53:07,140 - INFO - * Restarting with stat
+2023-09-27 13:53:07,567 - WARNING - * Debugger is active!
+2023-09-27 13:53:07,574 - INFO - * Debugger PIN: 128-641-861
+2023-09-27 13:59:11,412 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-27 13:59:11,413 - INFO -[33mPress CTRL+C to quit[0m
+2023-09-27 13:59:11,415 - INFO - * Restarting with stat
+2023-09-27 13:59:11,853 - WARNING - * Debugger is active!
+2023-09-27 13:59:11,876 - INFO - * Debugger PIN: 128-641-861
+2023-09-27 13:59:30,636 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-27 13:59:31,726 - DEBUG -https://api.telegram.org:443 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 471
+2023-09-27 13:59:31,745 - DEBUG -Starting new HTTPS connection (1): api.telegram.org:443
+2023-09-27 13:59:32,870 - DEBUG -https://api.telegram.org:443 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 277
+2023-09-27 13:59:32,879 - INFO -127.0.0.1 - - [27/Sep/2023 13:59:32] "POST /api/telegram HTTP/1.1" 200 -
+2023-09-27 14:00:37,403 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-27 14:00:37,404 - INFO -[33mPress CTRL+C to quit[0m
+2023-09-27 14:00:37,406 - INFO - * Restarting with stat
+2023-09-27 14:00:37,904 - WARNING - * Debugger is active!
+2023-09-27 14:00:37,917 - INFO - * Debugger PIN: 128-641-861
+2023-10-07 21:47:22,184 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-07 21:47:22,185 - INFO -[33mPress CTRL+C to quit[0m
+2023-10-07 21:47:22,189 - INFO - * Restarting with stat
+2023-10-07 21:47:23,809 - WARNING - * Debugger is active!
+2023-10-07 21:47:23,863 - INFO - * Debugger PIN: 119-595-935
+2023-10-07 21:50:36,685 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-07 21:50:36,689 - INFO -[33mPress CTRL+C to quit[0m
+2023-10-07 21:50:36,694 - INFO - * Restarting with stat
+2023-10-07 21:50:38,468 - WARNING - * Debugger is active!
+2023-10-07 21:50:38,531 - INFO - * Debugger PIN: 114-450-851
+2023-10-07 21:54:16,023 - INFO - * Detected change in '/storage/emulated/0/Download/TeraHunter_Premium/RUN_WEBHOOK.py', reloading
+2023-10-07 21:54:16,741 - INFO - * Restarting with stat
+2023-10-07 21:54:19,613 - WARNING - * Debugger is active!
+2023-10-07 21:54:19,682 - INFO - * Debugger PIN: 949-759-517
+2023-10-07 21:54:46,781 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-07 21:54:46,782 - INFO -[33mPress CTRL+C to quit[0m
+2023-10-07 21:54:46,790 - INFO - * Restarting with stat
+2023-10-07 21:54:48,572 - WARNING - * Debugger is active!
+2023-10-07 21:54:48,682 - INFO - * Debugger PIN: 444-279-592
+2023-10-07 21:56:36,209 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-07 21:56:36,210 - INFO -[33mPress CTRL+C to quit[0m
+2023-10-07 21:56:36,226 - INFO - * Restarting with stat
+2023-10-07 21:56:38,309 - WARNING - * Debugger is active!
+2023-10-07 21:56:38,381 - INFO - * Debugger PIN: 106-972-425
+2023-10-07 22:25:13,518 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-07 22:25:13,519 - INFO -[33mPress CTRL+C to quit[0m
+2023-10-07 22:25:13,522 - INFO - * Restarting with stat
+2023-10-07 22:25:14,043 - WARNING - * Debugger is active!
+2023-10-07 22:25:14,108 - INFO - * Debugger PIN: 109-481-368
+2023-10-07 22:25:54,185 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-07 22:25:54,186 - INFO -[33mPress CTRL+C to quit[0m
+2023-10-07 22:25:54,190 - INFO - * Restarting with stat
+2023-10-07 22:25:54,749 - WARNING - * Debugger is active!
+2023-10-07 22:25:54,775 - INFO - * Debugger PIN: 459-404-587
+2023-10-07 22:26:26,512 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2023-10-07 22:26:27,379 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 361
+2023-10-07 22:26:27,384 - INFO -127.0.0.1 - - [07/Oct/2023 22:26:27] "POST /api/telegram HTTP/1.1" 200 -
+2023-10-07 22:26:27,471 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2023-10-07 22:26:28,336 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 467
+2023-10-07 22:26:28,341 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2023-10-07 22:26:28,364 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 500 76
+2023-10-07 22:26:28,366 - INFO -127.0.0.1 - - [07/Oct/2023 22:26:28] "POST /api/telegram HTTP/1.1" 200 -
+2023-10-07 22:26:28,474 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2023-10-07 22:26:28,491 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 500 76
+2023-10-07 22:26:28,492 - ERROR -Error Occured in telegram_webhook - 'result'
+2023-10-07 22:26:28,493 - INFO -127.0.0.1 - - [07/Oct/2023 22:26:28] "POST /api/telegram HTTP/1.1" 200 -
+2023-10-07 22:26:59,233 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-07 22:26:59,234 - INFO -[33mPress CTRL+C to quit[0m
+2023-10-07 22:26:59,238 - INFO - * Restarting with stat
+2023-10-07 22:26:59,846 - WARNING - * Debugger is active!
+2023-10-07 22:26:59,926 - INFO - * Debugger PIN: 105-782-612
+2023-10-07 22:27:33,353 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2023-10-07 22:27:33,367 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 500 76
+2023-10-07 22:27:33,369 - ERROR -Error Occured in telegram_webhook - 'result'
+2023-10-07 22:27:33,370 - INFO -127.0.0.1 - - [07/Oct/2023 22:27:33] "POST /api/telegram HTTP/1.1" 200 -
+2023-10-07 22:27:53,353 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2023-10-07 22:27:53,559 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 467
+2023-10-07 22:27:53,571 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2023-10-07 22:27:53,586 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 500 76
+2023-10-07 22:27:53,587 - INFO -127.0.0.1 - - [07/Oct/2023 22:27:53] "POST /api/telegram HTTP/1.1" 200 -
+2023-10-07 23:39:21,720 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-07 23:39:21,722 - INFO -[33mPress CTRL+C to quit[0m
+2023-10-07 23:39:21,729 - INFO - * Restarting with stat
+2023-10-07 23:39:24,120 - WARNING - * Debugger is active!
+2023-10-07 23:39:24,214 - INFO - * Debugger PIN: 718-798-630
+2023-10-07 23:39:25,406 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2023-10-07 23:39:25,970 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 467
+2023-10-07 23:39:26,020 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2023-10-07 23:39:26,235 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 278
+2023-10-07 23:39:26,245 - INFO -127.0.0.1 - - [07/Oct/2023 23:39:26] "POST /api/telegram HTTP/1.1" 200 -
+2023-10-07 23:51:09,915 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-07 23:51:09,916 - INFO -[33mPress CTRL+C to quit[0m
+2023-10-07 23:51:09,925 - INFO - * Restarting with stat
+2023-10-07 23:51:12,114 - WARNING - * Debugger is active!
+2023-10-07 23:51:12,287 - INFO - * Debugger PIN: 949-997-989
+2023-10-07 23:52:07,672 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-07 23:52:07,674 - INFO -[33mPress CTRL+C to quit[0m
+2023-10-07 23:52:07,680 - INFO - * Restarting with stat
+2023-10-07 23:52:09,313 - WARNING - * Debugger is active!
+2023-10-07 23:52:09,382 - INFO - * Debugger PIN: 540-959-480
+2023-10-07 23:52:53,480 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2023-10-07 23:52:53,676 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 564
+2023-10-07 23:52:53,762 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2023-10-07 23:52:53,908 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 288
+2023-10-07 23:52:53,926 - INFO -127.0.0.1 - - [07/Oct/2023 23:52:53] "POST /api/telegram HTTP/1.1" 200 -
+2024-01-12 20:02:27,436 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-12 20:02:27,437 - INFO -[33mPress CTRL+C to quit[0m
+2024-01-12 20:02:27,439 - INFO - * Restarting with stat
+2024-01-12 20:02:27,891 - WARNING - * Debugger is active!
+2024-01-12 20:02:27,914 - INFO - * Debugger PIN: 941-578-879
+2024-01-12 20:11:10,745 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-12 20:11:10,895 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 587
+2024-01-12 20:11:10,903 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-12 20:11:11,034 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 280
+2024-01-12 20:11:11,037 - INFO -127.0.0.1 - - [12/Jan/2024 20:11:11] "POST /api/telegram HTTP/1.1" 200 -
+2024-01-12 20:11:35,134 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-12 20:11:35,599 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 582
+2024-01-12 20:11:35,683 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-12 20:11:35,838 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 288
+2024-01-12 20:11:35,884 - INFO -127.0.0.1 - - [12/Jan/2024 20:11:35] "POST /api/telegram HTTP/1.1" 200 -
+2024-01-12 21:02:12,010 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-12 21:02:12,216 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 582
+2024-01-12 21:02:12,314 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-12 21:02:12,430 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 288
+2024-01-12 21:02:12,465 - INFO -127.0.0.1 - - [12/Jan/2024 21:02:12] "POST /api/telegram HTTP/1.1" 200 -
+2024-01-12 21:03:00,731 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-12 21:03:00,936 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 583
+2024-01-12 21:03:00,989 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-12 21:03:01,198 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 288
+2024-01-12 21:03:01,220 - INFO -127.0.0.1 - - [12/Jan/2024 21:03:01] "POST /api/telegram HTTP/1.1" 200 -
+2024-01-12 22:31:48,609 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-12 22:31:48,611 - INFO -[33mPress CTRL+C to quit[0m
+2024-01-12 22:31:48,618 - INFO - * Restarting with stat
+2024-01-12 22:31:50,583 - WARNING - * Debugger is active!
+2024-01-12 22:31:50,646 - INFO - * Debugger PIN: 391-922-369
+2024-01-12 22:31:50,941 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-12 22:31:51,145 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 564
+2024-01-12 22:31:51,313 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-12 22:31:51,471 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 288
+2024-01-12 22:31:51,478 - INFO -127.0.0.1 - - [12/Jan/2024 22:31:51] "POST /api/telegram HTTP/1.1" 200 -
+2024-01-12 23:55:33,723 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-12 23:55:33,869 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 545
+2024-01-12 23:55:33,887 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-12 23:55:34,045 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 280
+2024-01-12 23:55:34,065 - INFO -127.0.0.1 - - [12/Jan/2024 23:55:34] "POST /api/telegram HTTP/1.1" 200 -
+2024-01-12 23:56:22,578 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-12 23:56:22,777 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 583
+2024-01-12 23:56:22,832 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-12 23:56:23,019 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 288
+2024-01-12 23:56:23,053 - INFO -127.0.0.1 - - [12/Jan/2024 23:56:23] "POST /api/telegram HTTP/1.1" 200 -
+2024-01-13 00:09:47,112 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-13 00:09:47,284 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 583
+2024-01-13 00:09:47,355 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-13 00:09:47,507 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 288
+2024-01-13 00:09:47,530 - INFO -127.0.0.1 - - [13/Jan/2024 00:09:47] "POST /api/telegram HTTP/1.1" 200 -
+2024-01-13 00:11:34,329 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-13 00:11:34,478 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 583
+2024-01-13 00:11:34,576 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-13 00:11:34,701 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 288
+2024-01-13 00:11:34,722 - INFO -127.0.0.1 - - [13/Jan/2024 00:11:34] "POST /api/telegram HTTP/1.1" 200 -
+2024-01-13 00:12:57,449 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-13 00:12:57,590 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 583
+2024-01-13 00:12:57,656 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-13 00:12:57,815 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 288
+2024-01-13 00:12:57,878 - INFO -127.0.0.1 - - [13/Jan/2024 00:12:57] "POST /api/telegram HTTP/1.1" 200 -
+2024-01-13 00:15:52,246 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-13 00:15:52,394 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 583
+2024-01-13 00:15:52,562 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-13 00:15:52,678 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 288
+2024-01-13 00:15:52,701 - INFO -127.0.0.1 - - [13/Jan/2024 00:15:52] "POST /api/telegram HTTP/1.1" 200 -
+2024-01-13 18:34:16,432 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-13 18:34:16,433 - INFO -[33mPress CTRL+C to quit[0m
+2024-01-13 18:34:16,438 - INFO - * Restarting with stat
+2024-01-13 18:34:16,848 - WARNING - * Debugger is active!
+2024-01-13 18:34:16,925 - INFO - * Debugger PIN: 503-067-203
+2024-01-13 18:34:21,408 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-13 18:34:21,688 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 587
+2024-01-13 18:34:21,693 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-13 18:34:21,859 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 280
+2024-01-13 18:34:21,867 - INFO -127.0.0.1 - - [13/Jan/2024 18:34:21] "POST /api/telegram HTTP/1.1" 200 -
+2024-01-13 18:34:28,537 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-13 18:34:28,681 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 583
+2024-01-13 18:34:28,796 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-13 18:34:28,944 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 288
+2024-01-13 18:34:28,957 - INFO -127.0.0.1 - - [13/Jan/2024 18:34:28] "POST /api/telegram HTTP/1.1" 200 -
+2024-01-13 18:40:13,527 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-13 18:40:13,692 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 564
+2024-01-13 18:40:13,791 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-13 18:40:13,925 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 288
+2024-01-13 18:40:13,959 - INFO -127.0.0.1 - - [13/Jan/2024 18:40:13] "POST /api/telegram HTTP/1.1" 200 -
+2024-01-13 18:46:27,665 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-13 18:46:27,890 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 564
+2024-01-13 18:46:27,940 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-13 18:46:28,152 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 288
+2024-01-13 18:46:28,180 - INFO -127.0.0.1 - - [13/Jan/2024 18:46:28] "POST /api/telegram HTTP/1.1" 200 -
+2024-01-13 18:49:24,029 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-13 18:49:24,180 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 564
+2024-01-13 18:49:24,258 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-13 18:49:24,383 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 288
+2024-01-13 18:49:24,397 - INFO -127.0.0.1 - - [13/Jan/2024 18:49:24] "POST /api/telegram HTTP/1.1" 200 -
+2024-01-13 18:50:12,157 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-13 18:50:12,286 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 564
+2024-01-13 18:50:12,341 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-13 18:50:12,467 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 288
+2024-01-13 18:50:12,481 - INFO -127.0.0.1 - - [13/Jan/2024 18:50:12] "POST /api/telegram HTTP/1.1" 200 -
+2024-01-20 18:56:57,694 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-20 18:56:57,696 - INFO -[33mPress CTRL+C to quit[0m
+2024-01-20 18:56:57,705 - INFO - * Restarting with stat
+2024-01-20 18:56:59,253 - WARNING - * Debugger is active!
+2024-01-20 18:56:59,319 - INFO - * Debugger PIN: 121-441-644
+2024-01-20 18:57:03,681 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-20 18:57:03,857 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 564
+2024-01-20 18:57:03,993 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-20 18:57:04,225 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 288
+2024-01-20 18:57:04,247 - INFO -127.0.0.1 - - [20/Jan/2024 18:57:04] "POST /api/telegram HTTP/1.1" 200 -
+2024-01-20 19:00:09,909 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-20 19:00:10,153 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 564
+2024-01-20 19:00:10,275 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-20 19:00:10,467 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 288
+2024-01-20 19:00:10,511 - INFO -127.0.0.1 - - [20/Jan/2024 19:00:10] "POST /api/telegram HTTP/1.1" 200 -
+2024-01-20 20:02:44,981 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-20 20:02:45,299 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 469
+2024-01-20 20:02:45,304 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-20 20:02:45,608 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 278
+2024-01-20 20:02:45,612 - INFO -127.0.0.1 - - [20/Jan/2024 20:02:45] "POST /api/telegram HTTP/1.1" 200 -
+2024-01-20 21:33:30,404 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-20 21:33:30,655 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 587
+2024-01-20 21:33:30,669 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-20 21:33:30,849 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 280
+2024-01-20 21:33:30,858 - INFO -127.0.0.1 - - [20/Jan/2024 21:33:30] "POST /api/telegram HTTP/1.1" 200 -
+2024-01-20 21:33:38,003 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-20 21:33:38,228 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 583
+2024-01-20 21:33:38,340 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-20 21:33:38,541 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 288
+2024-01-20 21:33:38,556 - INFO -127.0.0.1 - - [20/Jan/2024 21:33:38] "POST /api/telegram HTTP/1.1" 200 -
+2024-01-20 21:34:18,714 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-20 21:34:19,305 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 583
+2024-01-20 21:34:19,447 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-20 21:34:19,719 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 288
+2024-01-20 21:34:19,727 - INFO -127.0.0.1 - - [20/Jan/2024 21:34:19] "POST /api/telegram HTTP/1.1" 200 -
+2024-01-20 21:34:36,248 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-20 21:34:36,446 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 640
+2024-01-20 21:34:36,503 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-20 21:34:36,677 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 288
+2024-01-20 21:34:36,712 - INFO -127.0.0.1 - - [20/Jan/2024 21:34:36] "POST /api/telegram HTTP/1.1" 200 -
+2024-01-21 12:35:59,427 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-21 12:35:59,428 - INFO -[33mPress CTRL+C to quit[0m
+2024-01-21 12:35:59,431 - INFO - * Restarting with stat
+2024-01-21 12:35:59,845 - WARNING - * Debugger is active!
+2024-01-21 12:35:59,864 - INFO - * Debugger PIN: 397-475-294
+2024-01-21 12:36:02,693 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-21 12:36:03,059 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 564
+2024-01-21 12:36:03,149 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-21 12:36:03,477 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 288
+2024-01-21 12:36:03,484 - INFO -127.0.0.1 - - [21/Jan/2024 12:36:03] "POST /api/telegram HTTP/1.1" 200 -
+2024-01-21 19:13:02,189 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-21 19:13:02,191 - INFO -[33mPress CTRL+C to quit[0m
+2024-01-21 19:13:02,198 - INFO - * Restarting with stat
+2024-01-21 19:13:03,957 - WARNING - * Debugger is active!
+2024-01-21 19:13:04,022 - INFO - * Debugger PIN: 951-955-868
+2024-01-21 19:13:05,705 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-21 19:13:06,068 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 564
+2024-01-21 19:13:06,273 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-21 19:13:06,588 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 288
+2024-01-21 19:13:06,598 - INFO -127.0.0.1 - - [21/Jan/2024 19:13:06] "POST /api/telegram HTTP/1.1" 200 -
+2024-01-21 19:15:56,864 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-21 19:15:57,239 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 583
+2024-01-21 19:15:57,438 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-21 19:15:57,783 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 288
+2024-01-21 19:15:57,859 - INFO -127.0.0.1 - - [21/Jan/2024 19:15:57] "POST /api/telegram HTTP/1.1" 200 -
+2024-01-21 19:18:20,816 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-21 19:18:20,972 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 564
+2024-01-21 19:18:21,085 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-21 19:18:21,234 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 288
+2024-01-21 19:18:21,255 - INFO -127.0.0.1 - - [21/Jan/2024 19:18:21] "POST /api/telegram HTTP/1.1" 200 -
+2024-01-21 19:18:58,560 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-21 19:18:58,713 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 564
+2024-01-21 19:18:58,857 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-21 19:18:58,991 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 288
+2024-01-21 19:18:59,014 - INFO -127.0.0.1 - - [21/Jan/2024 19:18:59] "POST /api/telegram HTTP/1.1" 200 -
+2024-01-21 19:19:24,624 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-21 19:19:24,773 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 564
+2024-01-21 19:19:24,830 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-21 19:19:24,973 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 288
+2024-01-21 19:19:24,994 - INFO -127.0.0.1 - - [21/Jan/2024 19:19:24] "POST /api/telegram HTTP/1.1" 200 -
+2024-01-21 19:19:41,705 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-21 19:19:41,855 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 564
+2024-01-21 19:19:41,921 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-21 19:19:42,057 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 288
+2024-01-21 19:19:42,076 - INFO -127.0.0.1 - - [21/Jan/2024 19:19:42] "POST /api/telegram HTTP/1.1" 200 -
+2024-01-21 19:21:39,761 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-21 19:21:39,915 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 564
+2024-01-21 19:21:39,981 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-21 19:21:40,178 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 288
+2024-01-21 19:21:40,188 - INFO -127.0.0.1 - - [21/Jan/2024 19:21:40] "POST /api/telegram HTTP/1.1" 200 -
+2024-01-21 19:23:52,083 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-21 19:23:52,235 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 564
+2024-01-21 19:23:52,338 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-21 19:23:52,492 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 288
+2024-01-21 19:23:52,525 - INFO -127.0.0.1 - - [21/Jan/2024 19:23:52] "POST /api/telegram HTTP/1.1" 200 -
+2024-01-21 22:01:27,507 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-21 22:01:27,508 - INFO -[33mPress CTRL+C to quit[0m
+2024-01-21 22:01:27,513 - INFO - * Restarting with stat
+2024-01-21 22:01:28,051 - WARNING - * Debugger is active!
+2024-01-21 22:01:28,074 - INFO - * Debugger PIN: 870-611-635
+2024-01-21 22:01:29,063 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-21 22:01:29,221 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 467
+2024-01-21 22:01:29,225 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-21 22:01:29,382 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 278
+2024-01-21 22:01:29,388 - INFO -127.0.0.1 - - [21/Jan/2024 22:01:29] "POST /api/telegram HTTP/1.1" 200 -
+2024-01-21 22:01:50,599 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-21 22:01:50,731 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 583
+2024-01-21 22:01:50,845 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-21 22:01:50,973 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 288
+2024-01-21 22:01:50,983 - INFO -127.0.0.1 - - [21/Jan/2024 22:01:50] "POST /api/telegram HTTP/1.1" 200 -
+2024-01-21 22:02:45,460 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-21 22:02:45,663 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 583
+2024-01-21 22:02:45,750 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-21 22:02:46,304 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 288
+2024-01-21 22:02:46,320 - INFO -127.0.0.1 - - [21/Jan/2024 22:02:46] "POST /api/telegram HTTP/1.1" 200 -
+2024-01-21 22:07:20,625 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-21 22:07:20,769 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 564
+2024-01-21 22:07:20,870 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-21 22:07:20,997 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 288
+2024-01-21 22:07:21,020 - INFO -127.0.0.1 - - [21/Jan/2024 22:07:21] "POST /api/telegram HTTP/1.1" 200 -
+2024-01-22 00:15:06,797 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-22 00:15:06,798 - INFO -[33mPress CTRL+C to quit[0m
+2024-01-22 00:15:06,800 - INFO - * Restarting with stat
+2024-01-22 00:15:07,309 - WARNING - * Debugger is active!
+2024-01-22 00:15:07,334 - INFO - * Debugger PIN: 102-076-415
+2024-01-22 00:16:13,800 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-22 00:16:14,096 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 583
+2024-01-22 00:16:14,176 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-22 00:16:14,486 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 288
+2024-01-22 00:16:14,499 - INFO -127.0.0.1 - - [22/Jan/2024 00:16:14] "POST /api/telegram HTTP/1.1" 200 -
+2024-01-22 10:14:05,300 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-22 10:14:05,744 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 564
+2024-01-22 10:14:05,798 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-22 10:14:06,090 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 288
+2024-01-22 10:14:06,104 - INFO -127.0.0.1 - - [22/Jan/2024 10:14:06] "POST /api/telegram HTTP/1.1" 200 -
+2024-01-22 10:59:55,173 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-22 10:59:55,528 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 564
+2024-01-22 10:59:55,609 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-22 10:59:55,924 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 288
+2024-01-22 10:59:55,943 - INFO -127.0.0.1 - - [22/Jan/2024 10:59:55] "POST /api/telegram HTTP/1.1" 200 -
+2024-01-22 11:28:16,994 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-22 11:28:17,383 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 564
+2024-01-22 11:28:17,490 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-22 11:28:17,827 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 288
+2024-01-22 11:28:17,872 - INFO -127.0.0.1 - - [22/Jan/2024 11:28:17] "POST /api/telegram HTTP/1.1" 200 -
+2024-01-22 11:32:37,253 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-22 11:32:37,436 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 564
+2024-01-22 11:32:37,507 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-01-22 11:32:37,730 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 288
+2024-01-22 11:32:37,762 - INFO -127.0.0.1 - - [22/Jan/2024 11:32:37] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-11 16:22:25,156 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-02-11 16:22:25,156 - INFO -[33mPress CTRL+C to quit[0m
+2024-02-11 16:22:25,159 - INFO - * Restarting with stat
+2024-02-11 16:22:25,583 - WARNING - * Debugger is active!
+2024-02-11 16:22:25,637 - INFO - * Debugger PIN: 108-646-746
+2024-02-11 16:24:02,596 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-02-11 16:24:02,597 - INFO -[33mPress CTRL+C to quit[0m
+2024-02-11 16:24:02,600 - INFO - * Restarting with stat
+2024-02-11 16:24:03,148 - WARNING - * Debugger is active!
+2024-02-11 16:24:03,174 - INFO - * Debugger PIN: 992-905-388
+2024-02-11 16:24:15,016 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 16:24:15,159 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 753
+2024-02-11 16:24:15,237 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 16:24:15,371 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 315
+2024-02-11 16:24:15,378 - INFO -127.0.0.1 - - [11/Feb/2024 16:24:15] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-11 16:25:51,968 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 16:25:52,150 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 773
+2024-02-11 16:25:52,165 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 16:25:52,310 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 307
+2024-02-11 16:25:52,313 - INFO -127.0.0.1 - - [11/Feb/2024 16:25:52] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-11 16:26:11,680 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 16:26:11,801 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 792
+2024-02-11 16:26:11,890 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 16:26:12,010 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 315
+2024-02-11 16:26:12,038 - INFO -127.0.0.1 - - [11/Feb/2024 16:26:12] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-11 16:28:57,719 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 16:28:57,847 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 754
+2024-02-11 16:28:57,930 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 16:28:58,082 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 316
+2024-02-11 16:28:58,112 - INFO -127.0.0.1 - - [11/Feb/2024 16:28:58] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-11 16:29:33,584 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 16:29:33,742 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 797
+2024-02-11 16:29:33,820 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 16:29:33,944 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 316
+2024-02-11 16:29:33,970 - INFO -127.0.0.1 - - [11/Feb/2024 16:29:33] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-11 16:30:28,328 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 16:30:28,504 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 771
+2024-02-11 16:30:28,582 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 16:30:28,698 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 316
+2024-02-11 16:30:28,712 - INFO -127.0.0.1 - - [11/Feb/2024 16:30:28] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-11 16:30:46,826 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 16:30:46,976 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 613
+2024-02-11 16:30:46,980 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 16:30:47,108 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 306
+2024-02-11 16:30:47,117 - INFO -127.0.0.1 - - [11/Feb/2024 16:30:47] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-11 16:31:00,652 - INFO -127.0.0.1 - - [11/Feb/2024 16:31:00] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-11 16:31:05,325 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 16:31:05,444 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 797
+2024-02-11 16:31:05,517 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 16:31:05,649 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 316
+2024-02-11 16:31:05,664 - INFO -127.0.0.1 - - [11/Feb/2024 16:31:05] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-11 17:48:47,535 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 17:48:47,766 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 749
+2024-02-11 17:48:47,775 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 17:48:47,896 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 308
+2024-02-11 17:48:47,902 - INFO -127.0.0.1 - - [11/Feb/2024 17:48:47] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-11 17:48:57,200 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 17:48:57,326 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 842
+2024-02-11 17:48:57,392 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 17:48:57,509 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 316
+2024-02-11 17:48:57,544 - INFO -127.0.0.1 - - [11/Feb/2024 17:48:57] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-11 17:49:13,595 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 17:49:13,727 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 745
+2024-02-11 17:49:13,736 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 17:49:13,866 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 308
+2024-02-11 17:49:13,868 - INFO -127.0.0.1 - - [11/Feb/2024 17:49:13] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-11 17:54:13,105 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 17:54:13,276 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 755
+2024-02-11 17:54:13,342 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 17:54:13,470 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 316
+2024-02-11 17:54:13,503 - INFO -127.0.0.1 - - [11/Feb/2024 17:54:13] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-11 17:56:50,357 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 17:56:50,513 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 793
+2024-02-11 17:56:50,519 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 17:56:50,646 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 308
+2024-02-11 17:56:50,649 - INFO -127.0.0.1 - - [11/Feb/2024 17:56:50] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-11 17:57:52,273 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 17:57:52,868 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 791
+2024-02-11 17:57:52,876 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 17:57:52,999 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 308
+2024-02-11 17:57:53,001 - INFO -127.0.0.1 - - [11/Feb/2024 17:57:53] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-11 17:58:03,303 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 17:58:03,536 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 689
+2024-02-11 17:58:03,620 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 17:58:04,152 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 316
+2024-02-11 17:58:04,179 - INFO -127.0.0.1 - - [11/Feb/2024 17:58:04] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-11 17:58:31,672 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 17:58:31,795 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 786
+2024-02-11 17:58:31,856 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 17:58:31,982 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 316
+2024-02-11 17:58:31,987 - INFO -127.0.0.1 - - [11/Feb/2024 17:58:31] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-11 17:58:44,706 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-02-11 17:58:44,707 - INFO -[33mPress CTRL+C to quit[0m
+2024-02-11 17:58:44,714 - INFO - * Restarting with stat
+2024-02-11 17:58:45,359 - WARNING - * Debugger is active!
+2024-02-11 17:58:45,411 - INFO - * Debugger PIN: 524-169-149
+2024-02-11 17:58:51,406 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 17:58:51,646 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 751
+2024-02-11 17:58:51,717 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 17:58:51,886 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 316
+2024-02-11 17:58:51,899 - INFO -127.0.0.1 - - [11/Feb/2024 17:58:51] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-11 18:00:18,012 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-02-11 18:00:18,014 - INFO -[33mPress CTRL+C to quit[0m
+2024-02-11 18:00:18,023 - INFO - * Restarting with stat
+2024-02-11 18:00:18,541 - WARNING - * Debugger is active!
+2024-02-11 18:00:18,564 - INFO - * Debugger PIN: 465-068-295
+2024-02-11 18:00:19,407 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 18:00:19,575 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 747
+2024-02-11 18:00:19,643 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 18:00:19,817 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 316
+2024-02-11 18:00:19,825 - INFO -127.0.0.1 - - [11/Feb/2024 18:00:19] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-11 18:00:19,910 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 18:00:20,145 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 801
+2024-02-11 18:00:20,157 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 18:00:20,400 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 308
+2024-02-11 18:00:20,404 - INFO -127.0.0.1 - - [11/Feb/2024 18:00:20] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-11 18:00:20,463 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 18:00:20,647 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 801
+2024-02-11 18:00:20,664 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 18:00:20,789 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 308
+2024-02-11 18:00:20,791 - INFO -127.0.0.1 - - [11/Feb/2024 18:00:20] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-11 18:00:32,120 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 18:00:32,254 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 773
+2024-02-11 18:00:32,399 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 18:00:32,579 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 316
+2024-02-11 18:00:32,591 - INFO -127.0.0.1 - - [11/Feb/2024 18:00:32] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-11 18:01:03,886 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 18:01:04,027 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 703
+2024-02-11 18:01:04,070 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 18:01:04,202 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 316
+2024-02-11 18:01:04,207 - INFO -127.0.0.1 - - [11/Feb/2024 18:01:04] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-11 18:01:32,707 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 18:01:32,853 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 755
+2024-02-11 18:01:32,932 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 18:01:33,091 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 316
+2024-02-11 18:01:33,104 - INFO -127.0.0.1 - - [11/Feb/2024 18:01:33] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-11 18:04:16,940 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 18:04:17,142 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 967
+2024-02-11 18:04:17,210 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 18:04:17,348 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 316
+2024-02-11 18:04:17,371 - INFO -127.0.0.1 - - [11/Feb/2024 18:04:17] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-11 18:04:40,224 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 18:04:40,372 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 957
+2024-02-11 18:04:40,457 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 18:04:40,594 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 316
+2024-02-11 18:04:40,607 - INFO -127.0.0.1 - - [11/Feb/2024 18:04:40] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-11 18:05:40,339 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 18:05:40,486 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 755
+2024-02-11 18:05:40,551 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 18:05:40,698 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 316
+2024-02-11 18:05:40,720 - INFO -127.0.0.1 - - [11/Feb/2024 18:05:40] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-11 18:06:27,457 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 18:06:27,590 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 755
+2024-02-11 18:06:27,651 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 18:06:27,784 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 316
+2024-02-11 18:06:27,808 - INFO -127.0.0.1 - - [11/Feb/2024 18:06:27] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-11 18:06:51,149 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 18:06:51,372 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 755
+2024-02-11 18:06:51,437 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 18:06:51,621 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 316
+2024-02-11 18:06:51,632 - INFO -127.0.0.1 - - [11/Feb/2024 18:06:51] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-11 18:07:04,904 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 18:07:05,084 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 755
+2024-02-11 18:07:05,197 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 18:07:05,332 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 316
+2024-02-11 18:07:05,339 - INFO -127.0.0.1 - - [11/Feb/2024 18:07:05] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-11 18:07:26,868 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 18:07:27,011 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 755
+2024-02-11 18:07:27,078 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 18:07:27,209 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 316
+2024-02-11 18:07:27,217 - INFO -127.0.0.1 - - [11/Feb/2024 18:07:27] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-11 18:07:36,260 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 18:07:36,478 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 755
+2024-02-11 18:07:36,552 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 18:07:36,735 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 316
+2024-02-11 18:07:36,744 - INFO -127.0.0.1 - - [11/Feb/2024 18:07:36] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-11 19:04:41,950 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 19:04:42,204 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 755
+2024-02-11 19:04:42,315 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 19:04:42,579 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 316
+2024-02-11 19:04:42,612 - INFO -127.0.0.1 - - [11/Feb/2024 19:04:42] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-11 19:06:24,731 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 19:06:24,891 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 755
+2024-02-11 19:06:24,963 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 19:06:25,119 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 316
+2024-02-11 19:06:25,157 - INFO -127.0.0.1 - - [11/Feb/2024 19:06:25] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-11 19:07:25,622 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 19:07:25,756 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 729
+2024-02-11 19:07:25,813 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 19:07:25,982 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 316
+2024-02-11 19:07:25,985 - INFO -127.0.0.1 - - [11/Feb/2024 19:07:25] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-11 19:24:57,124 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 19:24:57,285 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 755
+2024-02-11 19:24:57,429 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 19:24:57,611 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 316
+2024-02-11 19:24:57,648 - INFO -127.0.0.1 - - [11/Feb/2024 19:24:57] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-11 19:25:23,861 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 19:25:24,166 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 755
+2024-02-11 19:25:24,249 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 19:25:24,529 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 316
+2024-02-11 19:25:24,536 - INFO -127.0.0.1 - - [11/Feb/2024 19:25:24] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-11 19:25:37,068 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 19:25:37,279 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 755
+2024-02-11 19:25:37,336 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 19:25:37,544 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 316
+2024-02-11 19:25:37,551 - INFO -127.0.0.1 - - [11/Feb/2024 19:25:37] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-11 19:32:42,433 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 19:32:42,646 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 954
+2024-02-11 19:32:42,762 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 19:32:43,206 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 316
+2024-02-11 19:32:43,234 - INFO -127.0.0.1 - - [11/Feb/2024 19:32:43] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-11 19:37:12,511 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 19:37:12,706 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 786
+2024-02-11 19:37:12,786 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 19:37:12,935 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 316
+2024-02-11 19:37:12,956 - INFO -127.0.0.1 - - [11/Feb/2024 19:37:12] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-11 19:37:50,462 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 19:37:50,625 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 784
+2024-02-11 19:37:50,706 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 19:37:50,853 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 316
+2024-02-11 19:37:50,861 - INFO -127.0.0.1 - - [11/Feb/2024 19:37:50] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-11 19:38:08,229 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 19:38:08,409 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 787
+2024-02-11 19:38:08,466 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 19:38:08,583 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 316
+2024-02-11 19:38:08,591 - INFO -127.0.0.1 - - [11/Feb/2024 19:38:08] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-11 19:45:32,154 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-02-11 19:45:32,156 - INFO -[33mPress CTRL+C to quit[0m
+2024-02-11 19:45:32,165 - INFO - * Restarting with stat
+2024-02-11 19:45:34,093 - WARNING - * Debugger is active!
+2024-02-11 19:45:34,337 - INFO - * Debugger PIN: 710-590-750
+2024-02-11 19:45:41,698 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 19:45:41,860 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 834
+2024-02-11 19:45:41,900 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 19:45:42,057 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 308
+2024-02-11 19:45:42,061 - INFO -127.0.0.1 - - [11/Feb/2024 19:45:42] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-11 19:45:53,965 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 19:45:54,154 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 855
+2024-02-11 19:45:54,234 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 19:45:54,379 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 316
+2024-02-11 19:45:54,400 - INFO -127.0.0.1 - - [11/Feb/2024 19:45:54] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-11 19:46:40,504 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 19:46:40,653 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 972
+2024-02-11 19:46:40,732 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 19:46:40,885 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 316
+2024-02-11 19:46:40,920 - INFO -127.0.0.1 - - [11/Feb/2024 19:46:40] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-11 19:48:24,012 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 19:48:24,174 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 964
+2024-02-11 19:48:24,276 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 19:48:24,419 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 316
+2024-02-11 19:48:24,476 - INFO -127.0.0.1 - - [11/Feb/2024 19:48:24] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-11 19:48:41,533 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 19:48:41,694 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 963
+2024-02-11 19:48:41,782 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 19:48:41,935 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 316
+2024-02-11 19:48:41,945 - INFO -127.0.0.1 - - [11/Feb/2024 19:48:41] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-11 21:07:57,060 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 21:07:57,339 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 755
+2024-02-11 21:07:57,413 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 21:07:57,578 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 316
+2024-02-11 21:07:57,598 - INFO -127.0.0.1 - - [11/Feb/2024 21:07:57] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-11 21:10:23,462 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-02-11 21:10:23,463 - INFO -[33mPress CTRL+C to quit[0m
+2024-02-11 21:10:23,469 - INFO - * Restarting with stat
+2024-02-11 21:10:23,938 - WARNING - * Debugger is active!
+2024-02-11 21:10:23,962 - INFO - * Debugger PIN: 248-271-254
+2024-02-11 21:10:27,610 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 21:10:27,759 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 755
+2024-02-11 21:10:27,834 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-11 21:10:27,985 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 316
+2024-02-11 21:10:27,995 - INFO -127.0.0.1 - - [11/Feb/2024 21:10:27] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-17 21:21:30,433 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-02-17 21:21:30,434 - INFO -[33mPress CTRL+C to quit[0m
+2024-02-17 21:21:30,435 - INFO - * Restarting with stat
+2024-02-17 21:21:31,034 - WARNING - * Debugger is active!
+2024-02-17 21:21:31,107 - INFO - * Debugger PIN: 239-789-330
+2024-02-21 12:34:18,488 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-02-21 12:34:18,502 - INFO -[33mPress CTRL+C to quit[0m
+2024-02-21 12:34:18,509 - INFO - * Restarting with stat
+2024-02-21 12:34:19,319 - WARNING - * Debugger is active!
+2024-02-21 12:34:19,364 - INFO - * Debugger PIN: 125-127-986
+2024-02-21 12:34:28,037 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-21 12:34:28,294 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 550
+2024-02-21 12:34:28,307 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-21 12:34:28,464 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 306
+2024-02-21 12:34:28,470 - INFO -127.0.0.1 - - [21/Feb/2024 12:34:28] "POST /api/telegram HTTP/1.1" 200 -
+2024-02-21 12:34:55,890 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-21 12:34:56,140 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/sendMessage HTTP/1.1" 200 755
+2024-02-21 12:34:56,229 - DEBUG -Starting new HTTP connection (1): localhost:8081
+2024-02-21 12:34:56,446 - DEBUG -http://localhost:8081 "POST /bot6530683899:AAGBBNXyTpU4dGLEP8EX_-F6XsoLNOCDdVQ/editMessageText HTTP/1.1" 200 316
+2024-02-21 12:34:56,464 - INFO -127.0.0.1 - - [21/Feb/2024 12:34:56] "POST /api/telegram HTTP/1.1" 200 -

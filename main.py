@@ -10,7 +10,7 @@ commands = [
    "cd  /data/data/com.termux/files/home",
     "pkg install telegram-bot-api",
      
-    "telegram-bot-api --local --api-hash c033c4d9d8592aebd8f66884f3bd351c --api-id 23105515",
+    "telegram-bot-api --local --api-hash YourTelegramBotApiHash --api-id YourTelegramBot-Api-Id",
     f"cd {now_Position}",
     "python RUN_WEBHOOK.py",
     "python txbot.py",
